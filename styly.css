@@ -1,0 +1,42 @@
+BODY {
+	text-align : justify;
+	margin : 2em 4em 0px 4em;
+	background: url(poz.gif);
+	font-family: 'Book Antiqua',serif;
+}
+SUP  {
+	margin-left: 1px;
+	font-style: normal;
+	line-height: 90%;
+}
+A {
+	color: Red;
+	text-decoration: none;
+}
+A:visited {
+	color: #C71585;
+}
+A:hover {
+	background-color: #F6E3BD;
+}
+A.b {
+		color: Black;
+		text-decoration: none;
+		border-bottom: 1px dashed #ffaabb;
+	}
+A:visited.b {
+		color: Black;
+		text-decoration: none;
+		border-bottom: 1px dashed #ffaabb;
+	}
+A:hover.b {
+		color: Red;
+		text-decoration: none;
+		border-bottom: 1px dashed Red;
+	}
+.poznamka  {
+	font-size : 95%;
+}
+.x  {
+	text-indent: 0;
+}
