@@ -3,7 +3,7 @@ BODY {
 	margin: 2em auto 0 auto;
 	background: url(poz.gif);
 	font-family: 'Book Antiqua',serif;
-	max-width: 950px;
+	max-width: 1000px;
 }
 SUP  {
 	margin-left: 1px;
@@ -42,3 +42,4 @@ A:hover.b {
 	text-indent: 0;
 
 }
+
